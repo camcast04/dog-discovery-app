@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="https://imgur.com/rzwZMmA"><img src="https://i.imgur.com/rzwZMmA.gif" title="source: imgur.com" /></a>
+<img src='https://i.imgur.com/A7PR7gJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  screenflow
